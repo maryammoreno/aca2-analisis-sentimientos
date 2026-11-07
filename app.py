@@ -291,7 +291,7 @@ with tab2:
     categorias = ["Negativa", "Neutral", "Positiva"]
 
     f1_nb = [28.2, 9.9, 96.6]
-    f1_lstm = [33.0, 20.0, 93.0]
+    f1_lstm = [33.5, 20.0, 93.0]
 
     x = np.arange(len(categorias))
     ancho = 0.35
